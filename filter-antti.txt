@@ -3,7 +3,6 @@
 ! Version: 1.0
 ! Last Updated: 2025-01-07
 ! Author: Antti
-! License: MIT or any other license you prefer
 
 ||boards.4chan.org/g##div#danbo-s-t
 ||trakt.tv/dashboard##div#om1gYCfRiN-IGJj59JMAC-wrapper
